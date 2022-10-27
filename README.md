@@ -25,9 +25,4 @@ temos turbo v8, v6, v5, v8
 ![Image](https://user-images.githubusercontent.com/113630642/193322302-82d57e1f-3539-47b9-b669-956e136e3d58.png)
 ![Image](https://user-images.githubusercontent.com/113630642/194380322-17ca2744-4102-4d94-a4bc-28abfc643cd0.png)
 ![Image](https://user-images.githubusercontent.com/113630642/194380442-db9d19f7-9ca3-4981-890b-8b03e1baf4ed.png)
-
-
-
-​
-31
 ![Image](https://user-images.githubusercontent.com/113630642/193321428-f0f17a6c-d0a2-45fa-b42b-967841599b7c.png)
