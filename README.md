@@ -9,6 +9,8 @@ Jeep Willys
 com desconto imperdível.
 temos turbo v8, v6, v5, v8
 ![Image](https://user-images.githubusercontent.com/113630642/193108683-bbd31a7a-d3a4-4812-949c-eaa9a6ef699c.png)
+fusca apenas por 30 mil reais
+
 ![Image](https://user-images.githubusercontent.com/113630642/193109217-e0bd7298-d3c8-4612-b2cc-3deb55dc2e4e.png)
 ![Image](https://user-images.githubusercontent.com/113630642/193322302-82d57e1f-3539-47b9-b669-956e136e3d58.png)
 
