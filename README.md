@@ -17,7 +17,7 @@ Nao precisa fazer lanternagem alguma.
 Motor revisado.
 Detalhes
 carros 1975 100 km gasolina manual               
-![Image](https://user-images.githubusercontent.com/113630642/193322302-82d57e1f-3539-47b9-b669-956e136e3d58.png)                                           carro antigp 1890 R$40 reais
+    
 
 
 
