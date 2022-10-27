@@ -16,9 +16,8 @@ Falta pagar dois anos de ipva e o recibo está aberto pronto para passar para o 
 Nao precisa fazer lanternagem alguma.
 Motor revisado.
 Detalhes
-carros 1975 100 km gasolina manual
-![Image](https://user-images.githubusercontent.com/113630642/193109217-e0bd7298-d3c8-4612-b2cc-3deb55dc2e4e.png) carro antigo  venda 1895 R$40 mil  reais
-![Image](https://user-images.githubusercontent.com/113630642/193322302-82d57e1f-3539-47b9-b669-956e136e3d58.png)
+carros 1975 100 km gasolina manual               
+![Image](https://user-images.githubusercontent.com/113630642/193322302-82d57e1f-3539-47b9-b669-956e136e3d58.png)                                           carro antigp 1890 R$40 reais
 
 ![Image](https://user-images.githubusercontent.com/113630642/193108147-12bb0443-888c-4036-adb0-a6e676cbfed4.png)
 ![Image](https://user-images.githubusercontent.com/113630642/193107886-4af956e0-d89c-49b7-9418-0d6c1f3bc48a.png)
