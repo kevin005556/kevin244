@@ -17,8 +17,7 @@ Nao precisa fazer lanternagem alguma.
 Motor revisado.
 Detalhes
 carros 1975 100 km gasolina manual
-
-![Image](https://user-images.githubusercontent.com/113630642/193109217-e0bd7298-d3c8-4612-b2cc-3deb55dc2e4e.png)
+![Image](https://user-images.githubusercontent.com/113630642/193109217-e0bd7298-d3c8-4612-b2cc-3deb55dc2e4e.png) carro antigo  venda 1895 R$40 mil  reais
 ![Image](https://user-images.githubusercontent.com/113630642/193322302-82d57e1f-3539-47b9-b669-956e136e3d58.png)
 
 ![Image](https://user-images.githubusercontent.com/113630642/193108147-12bb0443-888c-4036-adb0-a6e676cbfed4.png)
