@@ -26,7 +26,7 @@ carros 1975 100 km gasolina manual
 
 ![Image](https://user-images.githubusercontent.com/113630642/193321604-540e0a43-8fac-423f-83b8-41776d9df614.png)
 ![Image](https://user-images.githubusercontent.com/113630642/193321786-f0bfecde-2513-4867-88a4-d5780d520efc.png)
-![Image](https://user-images.githubusercontent.com/113630642/193322302-82d57e1f-3539-47b9-b669-956e136e3d58.png
+![Image](https://user-images.githubusercontent.com/113630642/193322302-82d57e1f-3539-47b9-b669-956e136e3d58.png)
 ![Image](https://user-images.githubusercontent.com/113630642/194380322-17ca2744-4102-4d94-a4bc-28abfc643cd0.png)
 ![Image](https://user-images.githubusercontent.com/113630642/194380442-db9d19f7-9ca3-4981-890b-8b03e1baf4ed.png)
 ![Image](https://user-images.githubusercontent.com/113630642/193321428-f0f17a6c-d0a2-45fa-b42b-967841599b7c.png)
