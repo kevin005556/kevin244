@@ -17,7 +17,7 @@ Nao precisa fazer lanternagem alguma.
 Motor revisado.
 Detalhes
 carros 1975 100 km gasolina manual               
-    
+  formas de pagamento pix, cartao de credito   
 
 
 
