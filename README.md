@@ -1,5 +1,6 @@
 # kevin244, reliquia paee
  por valores entre R$ 15 mil e R$ 25 mil. Essa faixa de preço diz respeito a veículos em bom estado. Existem similares anunciados por quantias bem menores, mas vale lembrar que carros antigos muito baratos costumam sair caros: afinal, gastos exagerados com consertos ou com regularização podem rapidamente inviabilizar o investimento.
+
 Relíquias sobre rodas, carros antigos e com seu estado ótimo com carros limitados e personalizados com sua garantia e qualidade de produto em dia. Fazemos parcelas de até 56 x sem juros.
 vendemos carros antigos de ótima qualidade como: citroen 2CV.
 VW Beetle.
